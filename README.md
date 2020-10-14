@@ -13,7 +13,7 @@ The ultrasonic sensors are activated sequentially to avoid interferences.
 ![Setup](pictures/us_sensors_2.jpg)
 
 ## Code output
-![Code output](pictures/![Setup](pictures/us_sensors_3.jpg))
+![Code output](pictures/us_sensors_3.jpg)
 
 #### R&D
 Date: 14-10-2020 
